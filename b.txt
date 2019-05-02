@@ -1,1 +1,1 @@
-util. functions of version 2.
+util. functions of version 2 in git 2 repo.
